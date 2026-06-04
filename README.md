@@ -25,7 +25,7 @@
 ## ⚡ Quick Start
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/MalScan-ML.git
+git clone https://github.com/Tharaa-Ouelsati/MalScan-ML.git
 cd MalScan-ML
 pip install -r requirements.txt
 
