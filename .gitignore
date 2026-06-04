@@ -1,0 +1,31 @@
+__pycache__/
+*.pyc
+*.pyo
+.env
+venv/
+.venv/
+*.egg-info/
+dist/
+build/
+.pytest_cache/
+.ipynb_checkpoints/
+
+# Models (large files)
+models/*.pkl
+
+# Data (may contain malware samples — never commit)
+data/raw/
+data/processed/*.csv
+data/samples/*.exe
+data/samples/*.dll
+
+# Reports (generated)
+reports/figures/*.png
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
